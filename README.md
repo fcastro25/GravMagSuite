@@ -12,15 +12,15 @@ Major geophysical software/suites are comercial ones or just simple open source 
 
 ## AUTHOR
 
-* Fabrício Rodrigues Castro [fcastrogeof@gmail.com]
+* Fabrício Rodrigues Castro [fcastrogeof@gmail.com].
 
-Connect with me at [LinkedIn](https://www.linkedin.com/in/fabricio-castro-9a289792/)
+Connect with me at [LinkedIn](https://www.linkedin.com/in/fabricio-castro-9a289792/).
 
 ## COLLABORATORS
 
-* Saulo Pomponet Oliveira [saulopo@ufpr.br]
-* Jeferson de Souza [jdesouza@ufpr.br]
-* Francisco José Ferreira Fonseca [francisco.ferreira@ufpr.br]
+* Saulo Pomponet Oliveira [saulopo@ufpr.br].
+* Jeferson de Souza [jdesouza@ufpr.br].
+* Francisco José Ferreira Fonseca [francisco.ferreira@ufpr.br].
 
 ## INSTALLATION
 
