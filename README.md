@@ -38,5 +38,6 @@ In order to mantain the program up to date your feedback is very important. Then
   This tool allows to load a profile [2 columns ASCII file] and apply some enhacement filters (ASA, THDR, TDX, TDR, among other) as well as derivative filters (both vertical and same profile direction).
   - Extract Profile From a Grid:
   ![Extract Profile From a Grid](https://github.com/fcastro25/GravMagSuite/blob/master/Extract%20profile%20from%20a%20grid.png)
+  ![Extracted Profile](https://github.com/fcastro25/GravMagSuite/blob/master/extracted%20profile.png)
   In this tool a regularly spaced xyz file (scattered data may not work) can be loaded and a 2D profile can be extracted.
 - 
