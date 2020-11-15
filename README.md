@@ -62,6 +62,10 @@ In order to mantain the program up to date your feedback is very important. Then
     ![Convolutional Products](https://github.com/fcastro25/GravMagSuite/blob/master/Convolutional%20Products.png)
     
     - Fourier Domain Filters:
+    
+    ![Butterworth Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Butterworth%20Filter%20GUI.png)
+    ![Butterworth Products - BandPass](https://github.com/fcastro25/GravMagSuite/blob/master/Butterworth%20Filter%20product%20-%20band%20pass.png)
+    
 - Enhancement Filters:
   - Classical Enhancement Filters:
   - TDR+-TDX:
