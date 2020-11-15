@@ -68,6 +68,10 @@ In order to mantain the program up to date your feedback is very important. Then
     
 - Enhancement Filters:
   - Classical Enhancement Filters:
+  
+  ![Classical Enhancement Filters GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Classical%20Enhancement%20Filters%20GUI.png)
+  ![Classical Enhancement Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/Classical%20Enhancement%20Filter%20Products.png)
+  
   - TDR+-TDX:
 - Semiquantitative Methods:
   - Source Distance:
