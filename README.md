@@ -59,6 +59,7 @@ In order to mantain the program up to date your feedback is very important. Then
     - Convolutional Filters:
     ![Convolutional Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Convolutional%20Filters.png)
     ![Convolutional Products](https://github.com/fcastro25/GravMagSuite/blob/master/Convolutional%20Products.png)
+    
     - Fourier Domain Filters:
 - Enhancement Filters:
   - Classical Enhancement Filters:
