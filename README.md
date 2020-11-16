@@ -56,52 +56,141 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <b> Field Transformations </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  - Derivative Filters:
+  <details>
+  <summary> <b> Derivative Filters </b> <i>(click to expand!)</i> </summary>
+  <br>
   
   ![Derivative Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Derivative%20filter%20GUI.png)
   ![Derivative Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/Derivative%20filter%20products.png)
   
-  - Directional Derivative Filter:
+  ---
+  </details>
+  
+  <details>
+  <summary> <b> Directional Derivative Filter </b> <i>(click to expand!)</i> </summary>
+  <br>
   
   ![Directional Derivative Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Directional%20Derivative%20filter%20GUI.png)
   ![Directional Derivative Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/Directional%20Derivative%20filter%20products.png)
   
-  - Generalized Derivative Operator:
+  ---
+  </details>
+  
+  <details>
+  <summary> <b> Generalized Derivative Operator </b> <i>(click to expand!)</i> </summary>
+  <br>
   
   ![Generalized Derivative Operator GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Generalized%20Derivative%20Operator%20GUI.png)
   ![Generalized Derivative Operator Products](https://github.com/fcastro25/GravMagSuite/blob/master/Generalized%20Derivative%20Operator%20products.png)
   
-  - Vertical Derivative using Upward Continuation:
+  ---
+  </details>
+  
+  <details>
+  <summary> <b> Vertical Derivative using Upward Continuation </b> <i>(click to expand!)</i> </summary>
+  <br>
   
   ![Vertical Derivative using Upward Continuation GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Vertical%20Derivative%20using%20Upward%20Continuation%20GUI.png)
   ![Vertical Derivative using Upward Continuation Products](https://github.com/fcastro25/GravMagSuite/blob/master/Vertical%20Derivative%20using%20Upward%20Continuation%20Products.png)
   
-  - Field Continuation:
+  ---
+  </details>
+  
+  <details>
+  <summary> <b> Field Continuation </b> <i>(click to expand!)</i> </summary>
+  <br>
   
   ![Field Continuation GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Field%20Continuation%20GUI.png)
   ![Field Continuation Products](https://github.com/fcastro25/GravMagSuite/blob/master/Field%20Continuation%20Products.png)
   
-  - Directional Cosine:
-  - Change Direction of Measurement:
-  - Reduction to the Pole:
-    - Classical Equation.
-    - Pseudo Inclination Method.
-  - Reduction to the Equator:
-  - Vertical Integration:
-  - Hilbert Transform:
-  - Anisotropic Diffusion Filter:
-  - Other Filters:
-    - Convolutional Filters:
+  ---
+  </details>
+  
+  <details>
+  <summary> <b> Directional Cosine </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
+  
+  
+  ---
+  </details>
+  
+  <details>
+  <summary> <b> Change Direction of Measurement </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
+  
+  
+  ---
+  </details>
+  
+  <details>
+  <summary> <b> Reduction to the Pole </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
+  - Classical Equation.
+  
+  ---
+  
+  - Pseudo Inclination Method.
+  
+  ---
+  </details>
+  
+  <details>
+  <summary> <b> Reduction to the Equator </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
+  
+  
+  ---
+  </details>
+  
+  <details>
+  <summary> <b> Vertical Integration </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
+  
+  
+  ---
+  </details>
+  
+  <details>
+  <summary> <b> Hilbert Transform </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
+  
+  
+  ---
+  </details>
+  
+  <details>
+  <summary> <b> Anisotropic Diffusion Filter </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
+  
+  
+  ---
+  </details>
+  
+  <details>
+  <summary> <b> Other Filters </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
+  - Convolutional Filters:
     
-    ![Convolutional Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Convolutional%20Filters.png)
-    ![Convolutional Products](https://github.com/fcastro25/GravMagSuite/blob/master/Convolutional%20Products.png)
+  ![Convolutional Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Convolutional%20Filters.png)
+  ![Convolutional Products](https://github.com/fcastro25/GravMagSuite/blob/master/Convolutional%20Products.png)
+  
+  ---
+  
+  - Fourier Domain Filters:
     
-    - Fourier Domain Filters:
-    
-    ![Butterworth Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Butterworth%20Filter%20GUI.png)
-    ![Butterworth Products - BandPass](https://github.com/fcastro25/GravMagSuite/blob/master/Butterworth%20Filter%20product%20-%20band%20pass.png)
-
----
+  ![Butterworth Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Butterworth%20Filter%20GUI.png)
+  ![Butterworth Products - BandPass](https://github.com/fcastro25/GravMagSuite/blob/master/Butterworth%20Filter%20product%20-%20band%20pass.png)
+  
+  ---
+  </details>
   
 </details>
 
