@@ -109,16 +109,22 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <b> Enhancement Filters </b> <i>(click to expand!)</i> </summary>
   <br>
 
-  - Classical Enhancement Filters:
-  
+  <details>
+  <summary> <b> Classical Enhancement Filters </b> <i>(click to expand!)</i> </summary>
+  <br>
+	
   ![Classical Enhancement Filters GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Classical%20Enhancement%20Filters%20GUI.png)
   ![Classical Enhancement Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/Classical%20Enhancement%20Filter%20Products.png)
   
   ---
+  </details>
   
-  - TDR+-TDX:
-
+  <details>
+  <summary> <b> TDR+-TDX </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
   ---
+  </details>
   
 </details>
 
