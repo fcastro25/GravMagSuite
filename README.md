@@ -229,6 +229,9 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <b> TDR+-TDX </b> <i>(click to expand!)</i> </summary>
   <br>
   
+  ![Combination of TDR and TDX GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Combination%20of%20TDR%20and%20TDX%20GUI.png)
+  ![Combination of TDR and TDX Products](https://github.com/fcastro25/GravMagSuite/blob/master/Combination%20of%20TDR%20and%20TDX%20Products.png)
+  
   ---
   </details>
   
