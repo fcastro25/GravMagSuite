@@ -60,8 +60,9 @@ In order to mantain the program up to date your feedback is very important. Then
   
 </details>
 
+### Field Transformations
 <details>
-  <summary> <b> Field Transformations </b> <i>(click to expand!)</i> </summary>
+  <summary> <i>(click to expand!)</i> </summary>
   <br>
 
   <details>
@@ -204,8 +205,9 @@ In order to mantain the program up to date your feedback is very important. Then
   
 </details>
 
+### Enhancement Filters
 <details>
-  <summary> <b> Enhancement Filters </b> <i>(click to expand!)</i> </summary>
+  <summary> <i>(click to expand!)</i> </summary>
   <br>
 
   <details>
@@ -227,8 +229,9 @@ In order to mantain the program up to date your feedback is very important. Then
   
 </details>
 
+### Semiquantitative Methods
 <details>
-  <summary> <b> Semiquantitative Methods </b> <i>(click to expand!)</i> </summary>
+  <summary> <i>(click to expand!)</i> </summary>
   <br>
   
   - Source Distance:
@@ -240,8 +243,9 @@ In order to mantain the program up to date your feedback is very important. Then
   
 </details>
 
+### Modeling
 <details>
-  <summary> <b> Modeling </b> <i>(click to expand!)</i> </summary>
+  <summary> <i>(click to expand!)</i> </summary>
   <br>
   
   - 2D Modeling:
