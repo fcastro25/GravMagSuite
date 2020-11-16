@@ -266,29 +266,25 @@ In order to mantain the program up to date your feedback is very important. Then
   
   - Spherical Body:
     
-  ![Prismatic Body GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_01.png)
-  ![Prismatic Body Model](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_02.png)
+  '''IN CONSTRUCTION'''
   
   ---
   
   - Dyke-Like Body:
     
-  ![Prismatic Body GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_01.png)
-  ![Prismatic Body Model](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_02.png)
+  '''IN CONSTRUCTION'''
   
   ---
   
   - Fault Model:
     
-  ![Prismatic Body GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_01.png)
-  ![Prismatic Body Model](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_02.png)
+  '''IN CONSTRUCTION'''
   
   ---
   
   - Irregular Cross-Section Body:
     
-  ![Prismatic Body GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_01.png)
-  ![Prismatic Body Model](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_02.png)
+  '''IN CONSTRUCTION'''
   
   ---
   </details>
