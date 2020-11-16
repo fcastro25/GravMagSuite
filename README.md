@@ -117,7 +117,8 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <b> Directional Cosine </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  
+  ![Directional Cosine Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Directional%20Cosine%20Filter%20GUI.png)
+  ![Directional Cosine Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/Directional%20Cosine%20Filter%20Products.png)
   
   ---
   </details>
