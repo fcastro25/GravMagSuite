@@ -260,7 +260,18 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <i>(click to expand!)</i> </summary>
   <br>
   
-  - 2D Modeling:
+  <details>
+  <summary> <b> 3D Modeling </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
+  - Prismatic Body:
+    
+  ![Prismatic Body GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_01.png)
+  ![Prismatic Body Model](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_02.png)
+  
+  ---
+  </details>
+  
   - 3D Modeling:
   
   ---
