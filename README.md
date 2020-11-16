@@ -77,14 +77,22 @@ In order to mantain the program up to date your feedback is very important. Then
     
     ![Butterworth Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Butterworth%20Filter%20GUI.png)
     ![Butterworth Products - BandPass](https://github.com/fcastro25/GravMagSuite/blob/master/Butterworth%20Filter%20product%20-%20band%20pass.png)
-    
-- Enhancement Filters:
-  - Classical Enhancement Filters:
+
+<details>
+  <summary> <b> Enhancement Filters </b> <i>(click to expand!)</i> </summary>
+  <br>
+
+- Classical Enhancement Filters:
   
-  ![Classical Enhancement Filters GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Classical%20Enhancement%20Filters%20GUI.png)
-  ![Classical Enhancement Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/Classical%20Enhancement%20Filter%20Products.png)
+![Classical Enhancement Filters GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Classical%20Enhancement%20Filters%20GUI.png)
+![Classical Enhancement Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/Classical%20Enhancement%20Filter%20Products.png)
   
-  - TDR+-TDX:
+- TDR+-TDX:
+
+---
+  
+</details>
+
 - Semiquantitative Methods:
   - Source Distance:
   - Tilt Depth:
