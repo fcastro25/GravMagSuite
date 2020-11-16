@@ -51,9 +51,11 @@ In order to mantain the program up to date your feedback is very important. Then
   ---
   
 </details>
+
+<details>
+  <summary> <b> Field Transformations </b> <i>(click to expand!)</i> </summary>
+  <br>
   
-  
-- Field Transformations:
   - Derivative Filters:
   
   ![Derivative Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Derivative%20filter%20GUI.png)
@@ -91,6 +93,10 @@ In order to mantain the program up to date your feedback is very important. Then
     ![Butterworth Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Butterworth%20Filter%20GUI.png)
     ![Butterworth Products - BandPass](https://github.com/fcastro25/GravMagSuite/blob/master/Butterworth%20Filter%20product%20-%20band%20pass.png)
 
+---
+  
+</details>
+
 <details>
   <summary> <b> Enhancement Filters </b> <i>(click to expand!)</i> </summary>
   <br>
@@ -108,11 +114,26 @@ In order to mantain the program up to date your feedback is very important. Then
   
 </details>
 
-- Semiquantitative Methods:
+<details>
+  <summary> <b> Semiquantitative Methods </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
   - Source Distance:
   - Tilt Depth:
   - Signum Transform:
   - Euler Deconvolution:
-- Modeling:
- - 2D Modeling:
- - 3D Modeling:
+  
+  ---
+  
+</details>
+
+<details>
+  <summary> <b> Modeling </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
+  - 2D Modeling:
+  - 3D Modeling:
+  
+  ---
+  
+</details>
