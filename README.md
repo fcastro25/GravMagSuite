@@ -77,7 +77,7 @@ In order to mantain the program up to date your feedback is very important. Then
   </details>
   
   <details>
-  <summary> <b> Generalized Derivative Operator </b> <i>(click to expand!)</i> </summary>
+  <p> <summary> <b> Generalized Derivative Operator </b> <i>(click to expand!)</i> </summary> </p>
   <br>
   
   ![Generalized Derivative Operator GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Generalized%20Derivative%20Operator%20GUI.png)
