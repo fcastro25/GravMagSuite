@@ -32,8 +32,8 @@ In order to mantain the program up to date your feedback is very important. Then
 
 ## FUNCTIONALITIES
 
+### Profile and Grid opperations
 <details>
-  ### Profile and Grid opperations
   <summary> <i>(click to expand!)</i> </summary>
   <br>
   
