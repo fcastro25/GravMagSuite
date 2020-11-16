@@ -54,7 +54,6 @@ In order to mantain the program up to date your feedback is very important. Then
 
 ### Field Transformations
 <details>
-  <summary>Click to expand!</summary>
   
   1. Derivative Filters
   <details>
