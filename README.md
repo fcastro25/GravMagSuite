@@ -261,6 +261,39 @@ In order to mantain the program up to date your feedback is very important. Then
   <br>
   
   <details>
+  <summary> <b> 2D Modeling </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
+  - Spherical Body:
+    
+  ![Prismatic Body GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_01.png)
+  ![Prismatic Body Model](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_02.png)
+  
+  ---
+  
+  - Dyke-Like Body:
+    
+  ![Prismatic Body GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_01.png)
+  ![Prismatic Body Model](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_02.png)
+  
+  ---
+  
+  - Fault Model:
+    
+  ![Prismatic Body GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_01.png)
+  ![Prismatic Body Model](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_02.png)
+  
+  ---
+  
+  - Irregular Cross-Section Body:
+    
+  ![Prismatic Body GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_01.png)
+  ![Prismatic Body Model](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_02.png)
+  
+  ---
+  </details>
+  
+  <details>
   <summary> <b> 3D Modeling </b> <i>(click to expand!)</i> </summary>
   <br>
   
@@ -270,9 +303,14 @@ In order to mantain the program up to date your feedback is very important. Then
   ![Prismatic Body Model](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_02.png)
   
   ---
-  </details>
   
-  - 3D Modeling:
+  - Spherical Body:
+    
+  ![Spherical Body GUI](https://github.com/fcastro25/GravMagSuite/blob/master/3D%20Forward%20Modeling%20of%20Spherical%20Body%20GUI_01.png)
+  ![Spherical Body Model](https://github.com/fcastro25/GravMagSuite/blob/master/3D%20Forward%20Modeling%20of%20Spherical%20Body%20GUI_02.png)
+  
+  ---
+  </details>
   
   ---
   
