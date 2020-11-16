@@ -52,6 +52,10 @@ In order to mantain the program up to date your feedback is very important. Then
   ![Directional Derivative Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/Directional%20Derivative%20filter%20products.png)
   
   - Generalized Derivative Operator:
+  
+  ![Generalized Derivative Operator GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Generalized%20Derivative%20Operator%20GUI.png)
+  ![Generalized Derivative Operator Products](https://github.com/fcastro25/GravMagSuite/blob/master/Generalized%20Derivative%20Operator%20products.png)
+  
   - Vertical Derivative using Upward Continuation:
   - Field Continuation:
   - Directional Cosine:
