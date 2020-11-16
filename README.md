@@ -32,7 +32,7 @@ In order to mantain the program up to date your feedback is very important. Then
 
 ## FUNCTIONALITIES
 
-### Profile and Grid opperations
+### Profile and Grid operations
 <details>
   <summary> <i>(click to expand!)</i> </summary>
   <br>
