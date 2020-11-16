@@ -47,6 +47,10 @@ In order to mantain the program up to date your feedback is very important. Then
   ![Derivative Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/Derivative%20filter%20products.png)
   
   - Directional Derivative Filter:
+  
+  ![Directional Derivative Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Directional%20Derivative%20filter%20GUI.png)
+  ![Directional Derivative Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/Directional%20Derivative%20filter%20products.png)
+  
   - Generalized Derivative Operator:
   - Vertical Derivative using Upward Continuation:
   - Field Continuation:
