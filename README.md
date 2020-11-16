@@ -51,6 +51,8 @@ In order to mantain the program up to date your feedback is very important. Then
   ---
   
 </details>
+
+<details>
 <summary> <b> Field Transformations </b> <i>(click to expand!)</i> </summary>
 <br>
   
