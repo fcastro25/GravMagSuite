@@ -33,7 +33,8 @@ In order to mantain the program up to date your feedback is very important. Then
 ## FUNCTIONALITIES
 
 <details>
-  <summary> <b> Profile and Grid opperations </b> <i>(click to expand!)</i> </summary>
+  ### Profile and Grid opperations
+  <summary> <i>(click to expand!)</i> </summary>
   <br>
   
   <details>
