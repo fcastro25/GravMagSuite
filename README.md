@@ -42,6 +42,10 @@ In order to mantain the program up to date your feedback is very important. Then
   In this tool a regularly spaced xyz file (scattered data may not work) can be loaded and a 2D profile can be extracted.
 - Field Transformations:
   - Derivative Filters:
+  
+  ![Derivative Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Derivative%20filter%20GUI.png)
+  ![Derivative Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/Derivative%20filter%20products.png)
+  
   - Directional Derivative Filter:
   - Generalized Derivative Operator:
   - Vertical Derivative using Upward Continuation:
