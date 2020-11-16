@@ -72,7 +72,15 @@ In order to mantain the program up to date your feedback is very important. Then
   ![Generalized Derivative Operator Products](https://github.com/fcastro25/GravMagSuite/blob/master/Generalized%20Derivative%20Operator%20products.png)
   
   - Vertical Derivative using Upward Continuation:
+  
+  ![Vertical Derivative using Upward Continuation GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Vertical%20Derivative%20using%20Upward%20Continuation%20GUI.png)
+  ![Vertical Derivative using Upward Continuation Products](https://github.com/fcastro25/GravMagSuite/blob/master/Vertical%20Derivative%20using%20Upward%20Continuation%20Products.png)
+  
   - Field Continuation:
+  
+  ![Field Continuation GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Field%20Continuation%20GUI.png)
+  ![Field Continuation Products](https://github.com/fcastro25/GravMagSuite/blob/master/Field%20Continuation%20Products.png)
+  
   - Directional Cosine:
   - Change Direction of Measurement:
   - Reduction to the Pole:
