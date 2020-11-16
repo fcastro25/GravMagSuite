@@ -55,7 +55,7 @@ In order to mantain the program up to date your feedback is very important. Then
 <details>
 <summary> <b> Field Transformations </b> <i>(click to expand!)</i> </summary>
 <br>
-  
+  ---
   <details>
   <summary> <b> Derivative Filters </b> <i>(click to expand!)</i> </summary>
   <br>
@@ -193,7 +193,7 @@ In order to mantain the program up to date your feedback is very important. Then
   </details>
   
 </details>
-
+---
 <details>
   <summary> <b> Enhancement Filters </b> <i>(click to expand!)</i> </summary>
   <br>
