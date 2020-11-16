@@ -172,7 +172,8 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <b> Hilbert Transform </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  
+  ![Hilbert Transform GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Hibert%20Transform%20GUI.png)
+  ![Hilbert Transform Products](https://github.com/fcastro25/GravMagSuite/blob/master/Hibert%20Transform%20Products.png)
   
   ---
   </details>
