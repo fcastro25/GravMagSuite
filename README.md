@@ -32,14 +32,27 @@ In order to mantain the program up to date your feedback is very important. Then
 
 ## FUNCTIONALITIES
 
-- Profile and Grid opperations:
-	- Profile Analysis:
+<details>
+  <summary> <b> Profile and Grid opperations </b> <i>(click to expand!)</i> </summary>
+  <br>
+  - Profile Analysis:
+	
   ![Profile Analysis](https://github.com/fcastro25/GravMagSuite/blob/master/Profile%20Analysis.png)
   This tool allows to load a profile [2 columns ASCII file] and apply some enhacement filters (ASA, THDR, TDX, TDR, among other) as well as derivative filters (both vertical and same profile direction).
+  
+  ---
+  
   - Extract Profile From a Grid:
+  
   ![Extract Profile From a Grid](https://github.com/fcastro25/GravMagSuite/blob/master/Extract%20profile%20from%20a%20grid.png)
   ![Extracted Profile](https://github.com/fcastro25/GravMagSuite/blob/master/extracted%20profile.png)
   In this tool a regularly spaced xyz file (scattered data may not work) can be loaded and a 2D profile can be extracted.
+  
+  ---
+  
+</details>
+  
+  
 - Field Transformations:
   - Derivative Filters:
   
@@ -82,14 +95,16 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <b> Enhancement Filters </b> <i>(click to expand!)</i> </summary>
   <br>
 
-- Classical Enhancement Filters:
+  - Classical Enhancement Filters:
   
-![Classical Enhancement Filters GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Classical%20Enhancement%20Filters%20GUI.png)
-![Classical Enhancement Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/Classical%20Enhancement%20Filter%20Products.png)
+  ![Classical Enhancement Filters GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Classical%20Enhancement%20Filters%20GUI.png)
+  ![Classical Enhancement Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/Classical%20Enhancement%20Filter%20Products.png)
   
-- TDR+-TDX:
+  ---
+  
+  - TDR+-TDX:
 
----
+  ---
   
 </details>
 
