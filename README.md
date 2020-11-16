@@ -207,6 +207,8 @@ In order to mantain the program up to date your feedback is very important. Then
   
 </details>
 
+---
+
 ### Enhancement Filters
 <details>
   <summary> <i>(click to expand!)</i> </summary>
@@ -231,6 +233,8 @@ In order to mantain the program up to date your feedback is very important. Then
   
 </details>
 
+---
+
 ### Semiquantitative Methods
 <details>
   <summary> <i>(click to expand!)</i> </summary>
@@ -244,6 +248,8 @@ In order to mantain the program up to date your feedback is very important. Then
   ---
   
 </details>
+
+---
 
 ### Modeling
 <details>
