@@ -52,15 +52,13 @@ In order to mantain the program up to date your feedback is very important. Then
   
 </details>
 
-## Field Transformations
+### Field Transformations
 <details>
   <summary>Click to expand!</summary>
-  <br>
   
-  ### Derivative Filters
+  1. Derivative Filters
   <details>
   <summary>Click to expand!</summary>
-  <br>
   
   ![Derivative Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Derivative%20filter%20GUI.png)
   ![Derivative Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/Derivative%20filter%20products.png)
