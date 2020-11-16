@@ -35,25 +35,33 @@ In order to mantain the program up to date your feedback is very important. Then
 <details>
   <summary> <b> Profile and Grid opperations </b> <i>(click to expand!)</i> </summary>
   <br>
-  - Profile Analysis:
-	
+  
+  <details>
+  <summary> <b> Profile Analysis </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
   ![Profile Analysis](https://github.com/fcastro25/GravMagSuite/blob/master/Profile%20Analysis.png)
   This tool allows to load a profile [2 columns ASCII file] and apply some enhacement filters (ASA, THDR, TDX, TDR, among other) as well as derivative filters (both vertical and same profile direction).
   
   ---
+  </details>
   
-  - Extract Profile From a Grid:
+  <details>
+  <summary> <b> Extract Profile From a Grid </b> <i>(click to expand!)</i> </summary>
+  <br>
   
   ![Extract Profile From a Grid](https://github.com/fcastro25/GravMagSuite/blob/master/Extract%20profile%20from%20a%20grid.png)
   ![Extracted Profile](https://github.com/fcastro25/GravMagSuite/blob/master/extracted%20profile.png)
   In this tool a regularly spaced xyz file (scattered data may not work) can be loaded and a 2D profile can be extracted.
   
   ---
+  </details>
   
 </details>
 
 <details>
-<summary> <b> Field Transformations </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> Field Transformations </b> <i>(click to expand!)</i> </summary>
+  <br>
 
   <details>
   <summary> <b> Derivative Filters </b> <i>(click to expand!)</i> </summary>
@@ -221,8 +229,6 @@ In order to mantain the program up to date your feedback is very important. Then
   <br>
   
   - Source Distance:
-  <summary>Click to expand</summary>
-  
   - Tilt Depth:
   - Signum Transform:
   - Euler Deconvolution:
