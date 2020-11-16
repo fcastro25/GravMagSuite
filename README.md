@@ -127,7 +127,8 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <b> Change Direction of Measurement </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  
+  ![Change Direction of Measurement GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Change%20Direction%20of%20Measurement%20GUI.png)
+  ![Change Direction of Measurement Products](https://github.com/fcastro25/GravMagSuite/blob/master/Change%20Direction%20of%20Measurement%20Products.png)
   
   ---
   </details>
