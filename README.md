@@ -244,10 +244,41 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <i>(click to expand!)</i> </summary>
   <br>
   
-  - Source Distance:
-  - Tilt Depth:
-  - Signum Transform:
-  - Euler Deconvolution:
+  <details>
+  <summary> <b> Source Distance </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
+  
+  
+  ---
+  </details>
+  
+  <details>
+  <summary> <b> Tilt-Depth </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
+  
+  
+  ---
+  </details>
+  
+  <details>
+  <summary> <b> Signum Transform </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
+  
+  
+  ---
+  </details>
+  
+  <details>
+  <summary> <b> Euler Deconvolution </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
+  
+  
+  ---
+  </details>
   
   ---
   
