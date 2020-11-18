@@ -1,6 +1,6 @@
 # GRAV MAG SUITE
 
-![Grav Mag Suite main GUI](https://github.com/fcastro25/GravMagSuite/blob/master/home.png)
+![Grav Mag Suite main GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/home.png)
 
 ## ABOUT THIS PROJECT
 
@@ -41,7 +41,7 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <b> Profile Analysis </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  ![Profile Analysis](https://github.com/fcastro25/GravMagSuite/blob/master/Profile%20Analysis.png)
+  ![Profile Analysis](https://github.com/fcastro25/GravMagSuite/blob/master/images/Profile%20Analysis.png)
   This tool allows to load a profile [2 columns ASCII file] and apply some enhacement filters (ASA, THDR, TDX, TDR, among other) as well as derivative filters (both vertical and same profile direction).
   
   ---
@@ -51,8 +51,8 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <b> Extract Profile From a Grid </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  ![Extract Profile From a Grid](https://github.com/fcastro25/GravMagSuite/blob/master/Extract%20profile%20from%20a%20grid.png)
-  ![Extracted Profile](https://github.com/fcastro25/GravMagSuite/blob/master/extracted%20profile.png)
+  ![Extract Profile From a Grid](https://github.com/fcastro25/GravMagSuite/blob/master/images/Extract%20profile%20from%20a%20grid.png)
+  ![Extracted Profile](https://github.com/fcastro25/GravMagSuite/blob/master/images/extracted%20profile.png)
   In this tool a regularly spaced xyz file (scattered data may not work) can be loaded and a 2D profile can be extracted.
   
   ---
@@ -71,8 +71,8 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <b> Derivative Filters </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  ![Derivative Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Derivative%20filter%20GUI.png)
-  ![Derivative Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/Derivative%20filter%20products.png)
+  ![Derivative Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Derivative%20filter%20GUI.png)
+  ![Derivative Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Derivative%20filter%20products.png)
   
   ---
   </details>
@@ -81,8 +81,8 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <b> Directional Derivative Filter </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  ![Directional Derivative Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Directional%20Derivative%20filter%20GUI.png)
-  ![Directional Derivative Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/Directional%20Derivative%20filter%20products.png)
+  ![Directional Derivative Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Directional%20Derivative%20filter%20GUI.png)
+  ![Directional Derivative Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Directional%20Derivative%20filter%20products.png)
   
   ---
   </details>
@@ -91,8 +91,8 @@ In order to mantain the program up to date your feedback is very important. Then
   <p> <summary> <b> Generalized Derivative Operator </b> <i>(click to expand!)</i> </summary> </p>
   <br>
   
-  ![Generalized Derivative Operator GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Generalized%20Derivative%20Operator%20GUI.png)
-  ![Generalized Derivative Operator Products](https://github.com/fcastro25/GravMagSuite/blob/master/Generalized%20Derivative%20Operator%20products.png)
+  ![Generalized Derivative Operator GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Generalized%20Derivative%20Operator%20GUI.png)
+  ![Generalized Derivative Operator Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Generalized%20Derivative%20Operator%20products.png)
   
   ---
   </details>
@@ -101,8 +101,8 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <b> Vertical Derivative using Upward Continuation </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  ![Vertical Derivative using Upward Continuation GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Vertical%20Derivative%20using%20Upward%20Continuation%20GUI.png)
-  ![Vertical Derivative using Upward Continuation Products](https://github.com/fcastro25/GravMagSuite/blob/master/Vertical%20Derivative%20using%20Upward%20Continuation%20Products.png)
+  ![Vertical Derivative using Upward Continuation GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Vertical%20Derivative%20using%20Upward%20Continuation%20GUI.png)
+  ![Vertical Derivative using Upward Continuation Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Vertical%20Derivative%20using%20Upward%20Continuation%20Products.png)
   
   ---
   </details>
@@ -111,8 +111,8 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <b> Field Continuation </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  ![Field Continuation GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Field%20Continuation%20GUI.png)
-  ![Field Continuation Products](https://github.com/fcastro25/GravMagSuite/blob/master/Field%20Continuation%20Products.png)
+  ![Field Continuation GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Field%20Continuation%20GUI.png)
+  ![Field Continuation Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Field%20Continuation%20Products.png)
   
   ---
   </details>
@@ -121,8 +121,8 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <b> Directional Cosine </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  ![Directional Cosine Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Directional%20Cosine%20Filter%20GUI.png)
-  ![Directional Cosine Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/Directional%20Cosine%20Filter%20Products.png)
+  ![Directional Cosine Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Directional%20Cosine%20Filter%20GUI.png)
+  ![Directional Cosine Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Directional%20Cosine%20Filter%20Products.png)
   
   ---
   </details>
@@ -131,8 +131,8 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <b> Change Direction of Measurement </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  ![Change Direction of Measurement GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Change%20Direction%20of%20Measurement%20GUI.png)
-  ![Change Direction of Measurement Products](https://github.com/fcastro25/GravMagSuite/blob/master/Change%20Direction%20of%20Measurement%20Products.png)
+  ![Change Direction of Measurement GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Change%20Direction%20of%20Measurement%20GUI.png)
+  ![Change Direction of Measurement Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Change%20Direction%20of%20Measurement%20Products.png)
   
   ---
   </details>
@@ -172,8 +172,8 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <b> Hilbert Transform </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  ![Hilbert Transform GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Hibert%20Transform%20GUI.png)
-  ![Hilbert Transform Products](https://github.com/fcastro25/GravMagSuite/blob/master/Hibert%20Transform%20Products.png)
+  ![Hilbert Transform GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Hibert%20Transform%20GUI.png)
+  ![Hilbert Transform Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Hibert%20Transform%20Products.png)
   
   ---
   </details>
@@ -193,15 +193,15 @@ In order to mantain the program up to date your feedback is very important. Then
   
   - Convolutional Filters:
     
-  ![Convolutional Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Convolutional%20Filters.png)
-  ![Convolutional Products](https://github.com/fcastro25/GravMagSuite/blob/master/Convolutional%20Products.png)
+  ![Convolutional Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Convolutional%20Filters.png)
+  ![Convolutional Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Convolutional%20Products.png)
   
   ---
   
   - Fourier Domain Filters:
     
-  ![Butterworth Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Butterworth%20Filter%20GUI.png)
-  ![Butterworth Products - BandPass](https://github.com/fcastro25/GravMagSuite/blob/master/Butterworth%20Filter%20product%20-%20band%20pass.png)
+  ![Butterworth Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Butterworth%20Filter%20GUI.png)
+  ![Butterworth Products - BandPass](https://github.com/fcastro25/GravMagSuite/blob/master/images/Butterworth%20Filter%20product%20-%20band%20pass.png)
   
   ---
   </details>
@@ -219,8 +219,8 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <b> Classical Enhancement Filters </b> <i>(click to expand!)</i> </summary>
   <br>
 	
-  ![Classical Enhancement Filters GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Classical%20Enhancement%20Filters%20GUI.png)
-  ![Classical Enhancement Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/Classical%20Enhancement%20Filter%20Products.png)
+  ![Classical Enhancement Filters GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Classical%20Enhancement%20Filters%20GUI.png)
+  ![Classical Enhancement Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Classical%20Enhancement%20Filter%20Products.png)
   
   ---
   </details>
@@ -229,8 +229,8 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <b> TDR+-TDX </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  ![Combination of TDR and TDX GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Combination%20of%20TDR%20and%20TDX%20GUI.png)
-  ![Combination of TDR and TDX Products](https://github.com/fcastro25/GravMagSuite/blob/master/Combination%20of%20TDR%20and%20TDX%20Products.png)
+  ![Combination of TDR and TDX GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Combination%20of%20TDR%20and%20TDX%20GUI.png)
+  ![Combination of TDR and TDX Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Combination%20of%20TDR%20and%20TDX%20Products.png)
   
   ---
   </details>
@@ -295,15 +295,15 @@ In order to mantain the program up to date your feedback is very important. Then
   
   - Prismatic Body:
     
-  ![Prismatic Body GUI](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_01.png)
-  ![Prismatic Body Model](https://github.com/fcastro25/GravMagSuite/blob/master/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_02.png)
+  ![Prismatic Body GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_01.png)
+  ![Prismatic Body Model](https://github.com/fcastro25/GravMagSuite/blob/master/images/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_02.png)
   
   ---
   
   - Spherical Body:
     
-  ![Spherical Body GUI](https://github.com/fcastro25/GravMagSuite/blob/master/3D%20Forward%20Modeling%20of%20Spherical%20Body%20GUI_01.png)
-  ![Spherical Body Model](https://github.com/fcastro25/GravMagSuite/blob/master/3D%20Forward%20Modeling%20of%20Spherical%20Body%20GUI_02.png)
+  ![Spherical Body GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/3D%20Forward%20Modeling%20of%20Spherical%20Body%20GUI_01.png)
+  ![Spherical Body Model](https://github.com/fcastro25/GravMagSuite/blob/master/images/3D%20Forward%20Modeling%20of%20Spherical%20Body%20GUI_02.png)
   
   ---
   </details>
