@@ -264,27 +264,41 @@ In order to mantain the program up to date your feedback is very important. Then
   <summary> <b> 2D Modeling </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  - Spherical Body:
-    
-  '''IN CONSTRUCTION'''
+  <details>
+  <summary> <b> Spherical Body </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
+  
   
   ---
+  </details>
   
-  - Dyke-Like Body:
-    
-  '''IN CONSTRUCTION'''
+  <details>
+  <summary> <b> Dyke-Like Body </b> <i>(click to expand!)</i> </summary>
+  <br>
   
-  ---
   
-  - Fault Model:
-    
-  '''IN CONSTRUCTION'''
   
   ---
+  </details>
   
-  - Irregular Cross-Section Body:
-    
-  '''IN CONSTRUCTION'''
+  <details>
+  <summary> <b> Fault Model </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
+  
+  
+  ---
+  </details>
+  
+  <details>
+  <summary> <b> Irregular Cross-Section Body </b> <i>(click to expand!)</i> </summary>
+  <br>
+  
+  
+  
+  ---
+  </details>
   
   ---
   </details>
