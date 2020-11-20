@@ -226,6 +226,18 @@ In order to mantain the program more stable your feedback is very important. The
   </details>
   
   <details>
+  <summary> <b> Classical Enhancement Filters </b> <i>(click to expand!)</i> </summary>
+  <br>
+	
+  ![Classical Enhancement Filters GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Classical%20Enhancement%20Filters%20GUI.png)
+  ![Classical Enhancement Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Classical%20Enhancement%20Filter%20Products.png)
+  
+  For more information visit -> [Ma and Li, 2014](https://www.sciencedirect.com/science/article/pii/S0926985114001682).
+  
+  ---
+  </details>
+  
+  <details>
   <summary> <b> TDR+-TDX </b> <i>(click to expand!)</i> </summary>
   <br>
   
