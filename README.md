@@ -28,7 +28,7 @@ Grav Mag Suite may be installed by copying the content of the compressed file [G
 
 ## BUG REPORT
 
-In order to mantain the program up to date your feedback is very important. Then, if you have any problem please report your bug sending me an E-mail at [fcastrogeof@gmail.com].
+In order to mantain the program more stable your feedback is very important. Then, if you have any problem please report your bug sending me an E-mail at [fcastrogeof@gmail.com].
 
 ## FUNCTIONALITIES
 
