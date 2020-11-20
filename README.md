@@ -226,11 +226,11 @@ In order to mantain the program more stable your feedback is very important. The
   </details>
   
   <details>
-  <summary> <b> Classical Enhancement Filters </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> Balanced Horizontal Derivative [Edge Detector] </b> <i>(click to expand!)</i> </summary>
   <br>
 	
-  ![Classical Enhancement Filters GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Classical%20Enhancement%20Filters%20GUI.png)
-  ![Classical Enhancement Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Classical%20Enhancement%20Filter%20Products.png)
+  ![Balanced Horizontal Derivative GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Balanced%20Horizontal%20Derivative%20GUI.png)
+  ![Balanced Horizontal Derivative Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Balanced%20Horizontal%20Derivative%20Product.png)
   
   For more information visit -> [Ma and Li, 2014](https://www.sciencedirect.com/science/article/pii/S0926985114001682).
   
