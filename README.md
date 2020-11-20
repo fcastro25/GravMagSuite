@@ -238,6 +238,18 @@ In order to mantain the program more stable your feedback is very important. The
   </details>
   
   <details>
+  <summary> <b> Monogenic Signal </b> <i>(click to expand!)</i> </summary>
+  <br>
+	
+  ![Monogenic Signal GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Monogenic%20Signal%20GUI.png)
+  ![Monogenic Signal Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Monogenic%20Signal%20Products.png)
+  
+  For more information visit -> [Hidalgo Gato and Barbosa, 2015](https://library.seg.org/doi/abs/10.1190/GEO2015-0025.1) and [Hidalgo Gato and Barbosa, 2017](https://library.seg.org/doi/abs/10.1190/geo2016-0099.1).
+  
+  ---
+  </details>
+  
+  <details>
   <summary> <b> TDR+-TDX </b> <i>(click to expand!)</i> </summary>
   <br>
   
