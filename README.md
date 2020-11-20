@@ -262,6 +262,18 @@ In order to mantain the program more stable your feedback is very important. The
   </details>
   
   <details>
+  <summary> <b> Vertical Integration of ASA </b> <i>(click to expand!)</i> </summary>
+  <br>
+	
+  ![Vertical Integration of ASA GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Vertical%20Integration%20of%20ASA%20GUI.png)
+  ![Vertical Integration of ASA Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Vertical%20Integration%20of%20ASA%20Product.png)
+  
+  For more information visit -> [Paine and Haederle, 2001](https://www.tandfonline.com/doi/abs/10.1071/EG01238).
+  
+  ---
+  </details>
+  
+  <details>
   <summary> <b> TDR+-TDX </b> <i>(click to expand!)</i> </summary>
   <br>
   
