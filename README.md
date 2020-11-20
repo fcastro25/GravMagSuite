@@ -250,6 +250,18 @@ In order to mantain the program more stable your feedback is very important. The
   </details>
   
   <details>
+  <summary> <b> Normalized Standard Deviation </b> <i>(click to expand!)</i> </summary>
+  <br>
+	
+  ![Normalized Standard Deviation GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Normalized%20Standard%20Deviation%20GUI.png)
+  ![Normalized Standard Deviation Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Normalized%20Standard%20Deviation%20Products.png)
+  
+  For more information visit -> [Cooper and Cowan, 2005](https://library.seg.org/doi/abs/10.1190/1.2837309).
+  
+  ---
+  </details>
+  
+  <details>
   <summary> <b> TDR+-TDX </b> <i>(click to expand!)</i> </summary>
   <br>
   
