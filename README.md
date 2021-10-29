@@ -160,7 +160,7 @@ In order to maintain the program more stable your feedback is very important. Th
 	  <p align="center">
 	  	<img src="https://render.githubusercontent.com/render/math?math=Q(\theta)=\frac{(sin(I)+i\cdot cos(I)\cdot cos(D-\theta))^{2}}{(sin^{2}(I_{a})+i\cdot cos^{2}(I_{a})\cdot cos^{2}(D-\theta))(sin^{2}(I)+i\cdot cos^{2}(I)\cdot cos^{2}(D-\theta))}">  
 	  </p>
-	  where Ia is an user-given parameter called pseudo-inclination. It must be larger than the actual magnetic inclination I and its absolute value must lie between 20 to 30 degrees.
+	  where (I_a) is an user-given parameter called pseudo-inclination. It must be larger than the actual magnetic inclination (I) and its absolute value may often be between 20 and 30 degrees.
   ---
   </details>
   
