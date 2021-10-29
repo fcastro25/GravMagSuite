@@ -28,7 +28,7 @@ Grav Mag Suite may be installed by copying the content of the compressed file [G
 
 ## BUG REPORT
 
-In order to mantain the program more stable your feedback is very important. Then, if you have any problem please report your bug sending me an E-mail at [fcastrogeof@gmail.com].
+In order to maintain the program more stable your feedback is very important. Then, if you have any problem please report your bug sending me an E-mail at [fcastrogeof@gmail.com].
 
 ## FUNCTIONALITIES
 
@@ -138,14 +138,16 @@ In order to mantain the program more stable your feedback is very important. The
   </details>
   
   <details>
-  <summary> <b> Reduction to the Pole </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> Reduction to the Pole (RTP) </b> <i>(click to expand!)</i> </summary>
   <br>
   
   - Classical Equation.
   
-	  The reduction to the pole operator used here is:  
+	  The RTP wavenumber-domain operator used here is:  
+	  <img src="https://render.githubusercontent.com/render/math?math=Q=\frac{k_{x}^{2}+k_{y}^{2}}{(iLk_{x}+iMk_{y}+N\sqrt{k_{x}^{2}+k_{y}^{2}})^{2}}">  
+	  or  
 	  <img src="https://render.githubusercontent.com/render/math?math=Q=\frac{1}{(sin(I)+i\cdot cos(I)\cdot cos(D-\theta))^{2}}">  
-	  The above equation is in polar coordinates for r=1 (see equation 1 in [Li, 2008](https://pubs.geoscienceworld.org/tle/article-abstract/27/8/990/135661/Magnetic-reduction-to-the-pole-at-low-latitudes)).
+	  In polar coordinates for r=1 (see equation 1 in [Li, 2008](https://pubs.geoscienceworld.org/tle/article-abstract/27/8/990/135661/Magnetic-reduction-to-the-pole-at-low-latitudes)).
 	  
 	  
   ---
