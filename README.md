@@ -144,9 +144,13 @@ In order to maintain the program more stable your feedback is very important. Th
   - Classical Equation.
   
 	  The RTP wavenumber-domain operator used here is:  
-	  <img src="https://render.githubusercontent.com/render/math?math=Q=\frac{k_{x}^{2}+k_{y}^{2}}{(iLk_{x}+iMk_{y}+N\sqrt{k_{x}^{2}+k_{y}^{2}})^{2}}">  
-	  or  
-	  <img src="https://render.githubusercontent.com/render/math?math=Q=\frac{1}{(sin(I)+i\cdot cos(I)\cdot cos(D-\theta))^{2}}">  
+	  <p align="center">
+	  	<img src="https://render.githubusercontent.com/render/math?math=Q=\frac{k_{x}^{2} + k_{y}^{2}}{(iLk_{x} + iMk_{y} + N\sqrt{k_{x}^{2} + k_{y}^{2}})^{2}}">  
+	  </p>
+	  or
+	  <p align="center">
+	  	<img src="https://render.githubusercontent.com/render/math?math=Q=\frac{1}{(sin(I)+i\cdot cos(I)\cdot cos(D-\theta))^{2}}">  
+	  </p>  
 	  In polar coordinates for r=1 (see equation 1 in [Li, 2008](https://pubs.geoscienceworld.org/tle/article-abstract/27/8/990/135661/Magnetic-reduction-to-the-pole-at-low-latitudes)).
 	  
 	  
