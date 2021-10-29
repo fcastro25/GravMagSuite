@@ -26,6 +26,9 @@ Connect with me at [LinkedIn](https://www.linkedin.com/in/fabricio-castro-9a2897
 
 Grav Mag Suite may be installed by copying the content of the compressed file [Grav Mag Suite.rar] into a directory of your choice.
 
+<p style='color:red'>IMPORTANT!</p>  
+<p style='color:red'>To work properly, Grav Mag Suite must be executed using the following version of MATLAB -> (version 9.4.0.813654 R2018a). Older or newer MATLAB versions must trigger some issues and bugs. </p>
+
 ## BUG REPORT
 
 In order to maintain the program more stable your feedback is very important. Then, if you have any problem please report your bug sending me an E-mail at [fcastrogeof@gmail.com].
