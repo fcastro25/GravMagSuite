@@ -143,8 +143,8 @@ In order to mantain the program more stable your feedback is very important. The
   
   - Classical Equation.
   
-	  The reduction to the pole operator used here is:
-	  <img src="https://render.githubusercontent.com/render/math?math=Q=\frac{1}{(sin(I)+i\cdot cos(I)\cdot cos(D-\theta))^{2}}">
+	  The reduction to the pole operator used here is:  
+	  <img src="https://render.githubusercontent.com/render/math?math=Q=\frac{1}{(sin(I)+i\cdot cos(I)\cdot cos(D-\theta))^{2}}">  
 	  The above equation is in polar coordinates for r=1 (see equation 1 in [Li, 2008](https://pubs.geoscienceworld.org/tle/article-abstract/27/8/990/135661/Magnetic-reduction-to-the-pole-at-low-latitudes)).
 	  
 	  
