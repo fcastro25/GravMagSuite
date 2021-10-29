@@ -145,13 +145,12 @@ In order to maintain the program more stable your feedback is very important. Th
   
 	  The RTP wavenumber-domain operator used here is:  
 	  <p align="center">
-	  	<img src="https://render.githubusercontent.com/render/math?math=Q=\frac{k_{x}^{2} %2B k_{y}^{2}}{(iLk_{x} %2B iMk_{y} %2B N\sqrt{k_{x}^{2} %2B k_{y}^{2}})^{2}}">  
+	  	<img src="https://render.githubusercontent.com/render/math?math=Q(k_{x},k_{y})=\frac{k_{x}^{2} %2B k_{y}^{2}}{(iLk_{x} %2B iMk_{y} %2B N\sqrt{k_{x}^{2} %2B k_{y}^{2}})^{2}}">  
 	  </p>
-	  or
+	  or in polar coordinates (with r=1):
 	  <p align="center">
-	  	<img src="https://render.githubusercontent.com/render/math?math=Q=\frac{1}{(sin(I)+i\cdot cos(I)\cdot cos(D-\theta))^{2}}">  
+	  	<img src="https://render.githubusercontent.com/render/math?math=Q(\theta)=\frac{1}{(sin(I)+i\cdot cos(I)\cdot cos(D-\theta))^{2}}">  
 	  </p>  
-	  in polar coordinates for r=1.
 	  
 	  
   ---
