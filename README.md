@@ -333,7 +333,11 @@ In order to maintain the program more stable your feedback is very important. Th
   <summary> <b> Tilt-Depth </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  
+  ![Tilt depth GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Tilt%20depth%20GUI.png)
+	  
+  This semiquantitative method displays the following products: input data, TDR, depth estimates in scattered plot, and histogram of depth estimates.
+  ![Tilt depth products - 01](https://github.com/fcastro25/GravMagSuite/blob/master/images/Tilt%20depth%20products%20-%2001.png)
+  ![Tilt depth products - 02](https://github.com/fcastro25/GravMagSuite/blob/master/images/Tilt%20depth%20products%20-%2002.png)
   
   ---
   </details>
