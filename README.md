@@ -183,7 +183,8 @@ In order to maintain the program more stable your feedback is very important. Th
   <summary> <b> Vertical Integration </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  
+  ![Vertical Integration GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Vertical%20integration%20GUI.png)
+  ![Vertical Integration Product](https://github.com/fcastro25/GravMagSuite/blob/master/images/Vertical%20integration%20product.png)
   
   ---
   </details>
