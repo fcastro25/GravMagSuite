@@ -316,8 +316,14 @@ In order to maintain the program more stable your feedback is very important. Th
   <details>
   <summary> <b> Source Distance </b> <i>(click to expand!)</i> </summary>
   <br>
+  ![Source Distance GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Source%20Distance%20GUI.png)
+	  
+  This semiquantitative method has two ways of represent the estimated depth, in a surface map or in a scattered plot.
   
-  
+  - Surface map;
+  ![Source Distance product - surface map](https://github.com/fcastro25/GravMagSuite/blob/master/images/Source%20Distance%20product%20-%20surface%20map.png)
+  - Scattered plot;
+  ![Source Distance product - scattered plot](https://github.com/fcastro25/GravMagSuite/blob/master/images/Source%20Distance%20product%20-%20scattered%20plot.png)
   
   ---
   </details>
