@@ -170,10 +170,11 @@ In order to maintain the program more stable your feedback is very important. Th
   </details>
   
   <details>
-  <summary> <b> Reduction to the Equator </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> Reduction to the Equator (RTE) </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  
+  ![Reduction to the equator GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Reduction%20to%20the%20equator%20GUI.png)
+  ![Reduction to the equator Product](https://github.com/fcastro25/GravMagSuite/blob/master/images/Reduction%20to%20the%20equator%20products.png)
   
   ---
   </details>
