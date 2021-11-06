@@ -356,7 +356,9 @@ In order to maintain the program more stable your feedback is very important. Th
   <summary> <b> Source Distance </b> <i>(click to expand!)</i> </summary>
   <br>
 	  
-  ![Source Distance GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Source%20Distance%20GUI.png?raw=true)
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Source%20Distance%20GUI.png?raw=true">
+  </p>
 	  
   This semiquantitative method has two ways of represent the estimated depth, in a surface map or in a scattered plot.
   
@@ -371,8 +373,10 @@ In order to maintain the program more stable your feedback is very important. Th
   <details>
   <summary> <b> Tilt-Depth </b> <i>(click to expand!)</i> </summary>
   <br>
-  
-  ![Tilt depth GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Tilt%20depth%20GUI.png)
+	  
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Tilt%20depth%20GUI.png">
+  </p>
 	  
   This semiquantitative method displays the following products: input data, TDR, depth estimates in scattered plot, and histogram of depth estimates.
   ![Tilt depth products - 01](https://github.com/fcastro25/GravMagSuite/blob/master/images/Tilt%20depth%20products%20-%2001.png)
@@ -399,6 +403,7 @@ In order to maintain the program more stable your feedback is very important. Th
   <details>
   <summary> <b> Euler Deconvolution </b> <i>(click to expand!)</i> </summary>
   <br>
+	  
   - Bidimensional:
 	  
   ![Euler deconvolution 2D GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Euler%20deconvolution%202d%20GUI.png?raw=true)
