@@ -397,7 +397,7 @@ In order to maintain the program more stable your feedback is very important. Th
   ![Signum transform product - 02](https://github.com/fcastro25/GravMagSuite/blob/master/images/Signum%20transform%20product%2002.png)
   ![Signum transform product - 03](https://github.com/fcastro25/GravMagSuite/blob/master/images/Signum%20transform%20product%2003.png)
   
-  For more information visit -> [Souza & Ferreira, 2015](https://www.researchgate.net/publication/276083669_The_application_of_the_Signum_transform_to_the_interpretation_of_magnetic_anomalies_due_to_prismatic_bodies)
+  For more information visit -> [Souza & Ferreira, 2015](https://www.researchgate.net/publication/276083669_The_application_of_the_Signum_transform_to_the_interpretation_of_magnetic_anomalies_due_to_prismatic_bodies) and [Weihermann et al. 2016](https://sbgf.org.br/mysbgf/eventos/expanded_abstracts/VII_SimBGf/session/EXPLORA%C3%87%C3%83O%20MINERAL/Comparison%20between%20Signum%20transform%20and%20Euler%20deconvolution%20in%20magnetic%20data%20of%20the%20Paranagu%C3%A1%20Terrane,%20southern%20Brazil.pdf)
 	  
   ---
   </details>
