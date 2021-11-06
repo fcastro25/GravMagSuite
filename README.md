@@ -145,10 +145,14 @@ In order to maintain the program more stable your feedback is very important. Th
   <details>
   <summary> <b> Reduction to the Pole (RTP) </b> <i>(click to expand!)</i> </summary>
   <br>
+	  
+  The reduction to the pole GUI can reduce the input data under 3 different approaches, Pseudo-inclination (), Azimuthal filtering (), and Nonlinear threshold (). Since an approach is choosen, the GUI components related to the selected RTP method will be visible.
+	  
+  ![Reduction to the pole GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Change%20Direction%20of%20Measurement%20Products.png)
+	  
+  - Pseudo Inclination Method.
   
-  - Classical Equation.
-  
-	  The RTP wavenumber-domain operator used here is:  
+	  The RTP wavenumber-domain operator is expressed by the following expression:  
 	  <p align="center">
 	  	<img src="https://render.githubusercontent.com/render/math?math=Q(k_{x},k_{y})=\frac{k_{x}^{2} %2B k_{y}^{2}}{(iLk_{x} %2B iMk_{y} %2B N\sqrt{k_{x}^{2} %2B k_{y}^{2}})^{2}}">  
 	  </p>
@@ -157,15 +161,13 @@ In order to maintain the program more stable your feedback is very important. Th
 	  	<img src="https://render.githubusercontent.com/render/math?math=Q(\theta)=\frac{1}{(sin(I) %2B icos(I)cos(D-\theta))^{2}}">  
 	  </p>  
 	  
-	  
-  ---
-  
-  - Pseudo Inclination Method.
-  	  The RPT operator in this approach is:
+  	  In the pseudo-inclination approach, the above RPT operator is used normally, but at unstable zones (D+90-beta<theta<D+90+beta and D+270-beta<theta<D+270+beta) the bellow expression is used instead:
 	  <p align="center">
 	  	<img src="https://render.githubusercontent.com/render/math?math=Q(\theta)=\frac{(sin(I)-icos(I)cos(D-\theta))^{2}}{(sin^{2}(I_{a}) %2B icos^{2}(I_{a})cos^{2}(D-\theta))(sin^{2}(I) %2B icos^{2}(I)cos^{2}(D-\theta))}">  
 	  </p>
 	  where (I_a) is an user-given parameter called pseudo-inclination. It must be larger than the actual magnetic inclination (I) and its absolute value may often be between 20 and 30 degrees.
+  
+
   ---
   </details>
   
