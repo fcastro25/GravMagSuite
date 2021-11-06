@@ -75,8 +75,11 @@ In order to maintain the program more stable your feedback is very important. Th
   <details>
   <summary> <b> Derivative Filters </b> <i>(click to expand!)</i> </summary>
   <br>
-  
-  ![Derivative Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Derivative%20filter%20GUI.png)
+	  
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Derivative%20filter%20GUI.png">
+  </p>
+	  
   ![Derivative Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Derivative%20filter%20products.png)
   
   ---
@@ -85,8 +88,11 @@ In order to maintain the program more stable your feedback is very important. Th
   <details>
   <summary> <b> Directional Derivative Filter </b> <i>(click to expand!)</i> </summary>
   <br>
+	  
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Directional%20Derivative%20filter%20GUI.png">
+  </p>
   
-  ![Directional Derivative Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Directional%20Derivative%20filter%20GUI.png)
   ![Directional Derivative Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Directional%20Derivative%20filter%20products.png)
   
   ---
@@ -95,8 +101,11 @@ In order to maintain the program more stable your feedback is very important. Th
   <details>
   <p> <summary> <b> Generalized Derivative Operator </b> <i>(click to expand!)</i> </summary> </p>
   <br>
+	  
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Generalized%20Derivative%20Operator%20GUI.png">
+  </p>
   
-  ![Generalized Derivative Operator GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Generalized%20Derivative%20Operator%20GUI.png)
   ![Generalized Derivative Operator Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Generalized%20Derivative%20Operator%20products.png)
   
   ---
@@ -105,8 +114,11 @@ In order to maintain the program more stable your feedback is very important. Th
   <details>
   <summary> <b> Vertical Derivative using Upward Continuation </b> <i>(click to expand!)</i> </summary>
   <br>
+	  
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Vertical%20Derivative%20using%20Upward%20Continuation%20GUI.png">
+  </p>
   
-  ![Vertical Derivative using Upward Continuation GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Vertical%20Derivative%20using%20Upward%20Continuation%20GUI.png)
   ![Vertical Derivative using Upward Continuation Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Vertical%20Derivative%20using%20Upward%20Continuation%20Products.png)
   
   ---
@@ -115,8 +127,11 @@ In order to maintain the program more stable your feedback is very important. Th
   <details>
   <summary> <b> Field Continuation </b> <i>(click to expand!)</i> </summary>
   <br>
+	  
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Field%20Continuation%20GUI.png">
+  </p>
   
-  ![Field Continuation GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Field%20Continuation%20GUI.png)
   ![Field Continuation Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Field%20Continuation%20Products.png)
   
   ---
@@ -125,8 +140,11 @@ In order to maintain the program more stable your feedback is very important. Th
   <details>
   <summary> <b> Directional Cosine </b> <i>(click to expand!)</i> </summary>
   <br>
+	  
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Directional%20Cosine%20Filter%20GUI.png">
+  </p>
   
-  ![Directional Cosine Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Directional%20Cosine%20Filter%20GUI.png)
   ![Directional Cosine Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Directional%20Cosine%20Filter%20Products.png)
   
   ---
@@ -135,8 +153,10 @@ In order to maintain the program more stable your feedback is very important. Th
   <details>
   <summary> <b> Change Direction of Measurement </b> <i>(click to expand!)</i> </summary>
   <br>
-  
-  ![Change Direction of Measurement GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Change%20Direction%20of%20Measurement%20GUI.png)
+	  
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Change%20Direction%20of%20Measurement%20GUI.png">
+  </p>
   ![Change Direction of Measurement Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Change%20Direction%20of%20Measurement%20Products.png)
   
   ---
