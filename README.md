@@ -175,7 +175,7 @@ In order to maintain the program more stable your feedback is very important. Th
 	  
   - Pseudo Inclination Method.
   
-	  The RTP wavenumber-domain operator is expressed by the following expression:  
+	  The RTP wavenumber-domain operator is expressed by the following equation:  
 	  <p align="center">
 	  	<img src="https://render.githubusercontent.com/render/math?math=Q(k_{x},k_{y})=\frac{k_{x}^{2} %2B k_{y}^{2}}{(iLk_{x} %2B iMk_{y} %2B N\sqrt{k_{x}^{2} %2B k_{y}^{2}})^{2}}">  
 	  </p>
@@ -188,7 +188,7 @@ In order to maintain the program more stable your feedback is very important. Th
 	  <p align="center">
 	  	<img src="https://render.githubusercontent.com/render/math?math=Q(\theta)=\frac{(sin(I)-icos(I)cos(D-\theta))^{2}}{(sin^{2}(I_{a}) %2B icos^{2}(I_{a})cos^{2}(D-\theta))(sin^{2}(I) %2B icos^{2}(I)cos^{2}(D-\theta))}">  
 	  </p>
-	  where (I_a) is an user-given parameter called pseudo-inclination. It must be larger than the actual magnetic inclination (I) and its absolute value may often be between 20 and 30 degrees. The following figures show an anomaly at I=90 and D=45 and its reduced to the pole product, and both real and imaginary parts of the RTP operator, showing that its amplitudes at unstable zones were fairly atenuated.
+	  where (I_a) is an user-given parameter called pseudo-inclination. It must be larger than the actual magnetic inclination (I) and its absolute value may often be between 20 and 30 degrees. The following figures show a TMI anomaly with (I=90 and D=45) and its reduced to the pole product, and both real and imaginary parts of the RTP operator, showing that its amplitudes at unstable zones were fairly atenuated.
 	  
   ![Reduction to the pole product 01](https://github.com/fcastro25/GravMagSuite/blob/master/images/Reduction%20to%20the%20pole%20product%2001.png?raw=true)
   ![Reduction to the pole product 01](https://github.com/fcastro25/GravMagSuite/blob/master/images/Reduction%20to%20the%20pole%20product%2002.png?raw=true)
