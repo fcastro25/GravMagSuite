@@ -148,8 +148,8 @@ In order to maintain the program more stable your feedback is very important. Th
 	  
   The reduction to the pole GUI can reduce the input data under 3 different approaches, Pseudo-inclination ([MacLeod et al. 1993](https://www.tandfonline.com/doi/abs/10.1071/EG993679)), Azimuthal filtering ([Phillips, 1997](https://pubs.usgs.gov/of/1997/0725/report.pdf)), and Nonlinear thresholding ([Zhang et al. 2014](https://www.sciencedirect.com/science/article/abs/pii/S0926985114003048)). Once an approach is choosen, the GUI components related to the selected RTP method will be visible.
 	  
-  <p align="center">  
-    ![Reduction to the pole GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Reduction%20to%20the%20pole%20GUI.png?raw=true)
+  <p align="center">
+	  ![Reduction to the pole GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Reduction%20to%20the%20pole%20GUI.png?raw=true)
   </p>
 	  
   - Pseudo Inclination Method.
