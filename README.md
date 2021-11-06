@@ -385,7 +385,13 @@ In order to maintain the program more stable your feedback is very important. Th
   <summary> <b> Signum Transform </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Signum%20transform%20product%20GUI.png?raw=true">
+  </p>
+	  
+  ![Signum transform product - 01](https://github.com/fcastro25/GravMagSuite/blob/master/images/Signum%20transform%20product%2001.png)
+  ![Signum transform product - 02](https://github.com/fcastro25/GravMagSuite/blob/master/images/Signum%20transform%20product%2002.png)
+  ![Signum transform product - 03](https://github.com/fcastro25/GravMagSuite/blob/master/images/Signum%20transform%20product%2003.png)
   
   ---
   </details>
