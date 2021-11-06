@@ -399,7 +399,12 @@ In order to maintain the program more stable your feedback is very important. Th
   <details>
   <summary> <b> Euler Deconvolution </b> <i>(click to expand!)</i> </summary>
   <br>
+  - Bidimensional:
+	  
+  ![Euler deconvolution 2D GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Euler%20deconvolution%202d%20GUI.png?raw=true)
   
+  ---
+  - Tridimensional:
   
   
   ---
