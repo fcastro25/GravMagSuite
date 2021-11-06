@@ -157,6 +157,7 @@ In order to maintain the program more stable your feedback is very important. Th
   <p align="center">
 	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Change%20Direction%20of%20Measurement%20GUI.png">
   </p>
+	  
   ![Change Direction of Measurement Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Change%20Direction%20of%20Measurement%20Products.png)
   
   ---
@@ -198,8 +199,11 @@ In order to maintain the program more stable your feedback is very important. Th
   <details>
   <summary> <b> Reduction to the Equator (RTE) </b> <i>(click to expand!)</i> </summary>
   <br>
-  
-  ![Reduction to the equator GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Reduction%20to%20the%20equator%20GUI.png)
+	  
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Reduction%20to%20the%20equator%20GUI.png">
+  </p>
+	  
   ![Reduction to the equator Product](https://github.com/fcastro25/GravMagSuite/blob/master/images/Reduction%20to%20the%20equator%20products.png)
   
   ---
@@ -208,8 +212,11 @@ In order to maintain the program more stable your feedback is very important. Th
   <details>
   <summary> <b> Vertical Integration </b> <i>(click to expand!)</i> </summary>
   <br>
-  
-  ![Vertical Integration GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Vertical%20integration%20GUI.png)
+	  
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Vertical%20integration%20GUI.png">
+  </p>
+	  
   ![Vertical Integration Product](https://github.com/fcastro25/GravMagSuite/blob/master/images/Vertical%20integration%20product.png)
   
   ---
@@ -218,8 +225,11 @@ In order to maintain the program more stable your feedback is very important. Th
   <details>
   <summary> <b> Hilbert Transform </b> <i>(click to expand!)</i> </summary>
   <br>
-  
-  ![Hilbert Transform GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Hibert%20Transform%20GUI.png)
+	  
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Hibert%20Transform%20GUI.png">
+  </p>
+	  
   ![Hilbert Transform Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Hibert%20Transform%20Products.png)
   
   ---
@@ -239,8 +249,11 @@ In order to maintain the program more stable your feedback is very important. Th
   <br>
   
   - Convolutional Filters:
-    
-  ![Convolutional Filter GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Convolutional%20Filters.png)
+	  
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Convolutional%20Filters.png">
+  </p>
+  
   ![Convolutional Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Convolutional%20Products.png)
   
   ---
