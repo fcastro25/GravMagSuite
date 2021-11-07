@@ -447,6 +447,11 @@ In order to maintain the program more stable your feedback is very important. Th
 	  
   - Subset Solutions:
   
+  ![Subset separation GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Subset%20separation%20GUI.png?raw=true)
+	  
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Subset%20separation%20product%2001.png?raw=true">
+  </p>
   
   ---
   </details>
