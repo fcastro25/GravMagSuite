@@ -411,10 +411,26 @@ In order to maintain the program more stable your feedback is very important. Th
   ![Euler deconvolution 2D GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Euler%20deconvolution%202d%20GUI.png?raw=true)
   
   ---
-  - Tridimensional:
+  - Tridimensional [Moving window approach]:
   
+  ![Euler deconvolution 3D GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Euler%20deconvolution%203d%20GUI.png?raw=true)
   
   ---
+	  
+  - Tridimensional [Constrained moving window approach]:
+  
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/CMW%20Euler%20deconvolution%20GUI.png?raw=true">
+  </p>
+	  
+  ![Constrained moving window product 01](https://github.com/fcastro25/GravMagSuite/blob/master/images/CMW%20Euler%20deconvolution%20product%2001.png?raw=true)
+  
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/CMW%20Euler%20deconvolution%20product%2002.png?raw=true">
+  </p>
+	  
+  ---
+	  
   </details>
   
   <details>
