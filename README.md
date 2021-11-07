@@ -417,6 +417,26 @@ In order to maintain the program more stable your feedback is very important. Th
   ---
   </details>
   
+  <details>
+  <summary> <b> Scattered Solution Tools </b> <i>(click to expand!)</i> </summary>
+  <br>
+	  
+  - Plot Scattered Solutions:
+  
+  
+  ---
+	  
+  - Histogram Classes Separation:
+  
+  
+  ---
+	  
+  - Subset Solutions:
+  
+  
+  ---
+  </details>
+	
   ---
   
 </details>
