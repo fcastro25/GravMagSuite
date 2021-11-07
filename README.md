@@ -429,6 +429,19 @@ In order to maintain the program more stable your feedback is very important. Th
 	  
   - Histogram Classes Separation:
   
+  ![Histogram classes separation GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Histogram%20classes%20separation%20GUI.png?raw=true)
+	  
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Histogram%20classes%20separation%20products%2001.png?raw=true">
+  </p>
+	  
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Histogram%20classes%20separation%20products%2002.png?raw=true">
+  </p>
+	  
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Histogram%20classes%20separation%20products%2003.png?raw=true">
+  </p>
   
   ---
 	  
