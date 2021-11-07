@@ -423,6 +423,7 @@ In order to maintain the program more stable your feedback is very important. Th
 	  
   - Plot Scattered Solutions:
   
+  ![Plot scattered solutions GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Plot%20scattered%20solutions%20GUI.png?raw=true)
   
   ---
 	  
