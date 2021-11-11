@@ -542,6 +542,7 @@ In order to maintain the program more stable your feedback is very important. Th
 	  
     - Left-side panel: In this menu there are 2 options to load and save a control file related to the model's configuration. When the user load a model control file, several UI components will be automatically set with the info saved in the loaded file. Or, when the user save a control file, all model's info present in the GUI will be saved.
 	  
+    The bellow figures represents the GUI and the model used in the forward modeling.
 	  
   ![Prismatic Body GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_01.png)
   ![Prismatic Body Model](https://github.com/fcastro25/GravMagSuite/blob/master/images/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_02.png)
