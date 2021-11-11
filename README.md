@@ -532,6 +532,17 @@ In order to maintain the program more stable your feedback is very important. Th
   
   - Prismatic Body:
     
+  The GUI is composed by 4 fields: a left-side panel, a upper-right graph, a down-right parameter table, and an uppermost menu.
+	  
+  ####Left-side panel:
+	  
+  ####Left-side panel:
+	  
+  ####Left-side panel:
+	  
+  ####Left-side panel:
+	  
+	  
   ![Prismatic Body GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_01.png)
   ![Prismatic Body Model](https://github.com/fcastro25/GravMagSuite/blob/master/images/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_02.png)
   
