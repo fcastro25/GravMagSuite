@@ -534,13 +534,27 @@ In order to maintain the program more stable your feedback is very important. Th
     
   The GUI is composed by 4 fields: a left-side panel, a upper-right graph, a down-right parameter table, and an uppermost menu.
 	  
-  ####Left-side panel:
+    - Left-side panel:
 	  
-  ####Left-side panel:
+      It's composed by several UI components like, entries, popupmenus, and buttons. This components allow users to interact with the tool. The first two lines of the panel have entry components related to the interpolation mesh.
+      The third line is composed by 3 entries related to magnetic inducing field strength, inclination, and declination, and the fourth line represents entries related to magnetic and gravity noise level.
+      The fifth and sixth lines are composed by popup menus that control the way that the calculated anomaly will be shown. The user can choose to display the magnetic or the gravity anomaly, and choose to show it in 2D or 3D form, as well as choose the color distribution to be linear or histogram equalized.
+      The first line of the left-side panel's bottom entries has 2 UI components that set the quantity of bodies that the model is composed. When the user pic a number and press the ok button, some empty columns will appear in the down-right parameter table. Each column is related to a body.
+      The next 2 lines of the left-side panel represet entries that set a filename sufix that will differentiate the magnetic from the gravity anomaly file.
+      The "compute the anomalies" button as the name suggests calculate both gravity and magnetic TMIs. When the user press this button, a dialogue window will popup asking the user to choose both directory and file name, where the TMI files will be saved.
+      The last 3 lines of the left-side panel will set the way the model will be displayed. The user can set to show the entire bodies of the model in case of bodies limits exceed the study area limits and can set the vertical range (depth interval) of the model.
 	  
-  ####Left-side panel:
+    - Upper-right graph:
 	  
-  ####Left-side panel:
+      This part of the GUI is intended for displaying the calculated anomaly maps.
+	  
+    - Down-right parameter table:
+	  
+        In the parameter table the user can set both physical and spatial parameters of model's bodies, like magnetic susceptibility, density, remanet intensity, inclination and declination, width, lenght, thickness of the body, as well as depth to the top, and strike azimuth.
+	  
+    - Left-side panel:
+	  
+      In this menu there are 2 options to load and save a control file related to the model's configuration. When the user load a model control file, several UI components will be automatically set with the info saved in the loaded file. Or, when the user save a control file, all model's info present in the GUI will be saved.
 	  
 	  
   ![Prismatic Body GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Forward%20Modeling%20of%20Prismatic%20Bodies%20GUI_01.png)
