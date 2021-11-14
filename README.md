@@ -562,3 +562,7 @@ In order to maintain the program more stable your feedback is very important. Th
 </details>
 
 ---
+
+
+## FOLLOW US ON SOCIAL MEDIA
+- Youtube Channel -> [Grav Mag Suite YouTube Channel](https://www.youtube.com/channel/UCQMEHsslFDiKlOcvr_6no1w)
