@@ -31,7 +31,7 @@ Grav Mag Suite may be installed by copying the content of the compressed file [G
 
 <p align="center">
 IMPORTANT!<br/>
-To work properly, Grav Mag Suite must be executed using the following version of MATLAB -> (version 9.4.0.813654 or R2018a). Older or newer MATLAB versions must trigger some issues and bugs.
+To work properly, Grav Mag Suite must be executed using the following version of MATLAB -> (version 9.4.0.813654 or R2018a). Older or newer MATLAB versions must trigger some issues.
 </p>
 
 ## BUG REPORT
