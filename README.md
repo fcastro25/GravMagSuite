@@ -16,6 +16,9 @@ Most geophysical software/suites are comercial or just simple open source comman
 
 Connect with me at [LinkedIn](https://www.linkedin.com/in/fabricio-castro-9a289792/).
 
+## FOLLOW US ON SOCIAL MEDIA
+- Youtube Channel -> [Grav Mag Suite YouTube Channel](https://www.youtube.com/channel/UCQMEHsslFDiKlOcvr_6no1w)
+
 ## COLLABORATORS
 
 * Saulo Pomponet Oliveira [saulopo@ufpr.br].
@@ -562,7 +565,3 @@ In order to maintain the program more stable your feedback is very important. Th
 </details>
 
 ---
-
-
-## FOLLOW US ON SOCIAL MEDIA
-- Youtube Channel -> [Grav Mag Suite YouTube Channel](https://www.youtube.com/channel/UCQMEHsslFDiKlOcvr_6no1w)
