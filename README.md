@@ -481,7 +481,7 @@ In order to maintain the program more stable your feedback is very important. Th
 
 ---
 
-### Modeling
+### Forward Modeling
 <details>
   <summary> <i>(click to expand!)</i> </summary>
   <br>
@@ -494,7 +494,7 @@ In order to maintain the program more stable your feedback is very important. Th
   <summary> <b> Spherical Body </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  
+  ![2d forward modeling of spherical body GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/2d%20forward%20modeling%20of%20spherical%20model%20GUI.png?raw=true)
   
   ---
   </details>
@@ -503,7 +503,7 @@ In order to maintain the program more stable your feedback is very important. Th
   <summary> <b> Dyke-Like Body </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  
+  ![2d forward modeling of dike-like body GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/2d%20forward%20modeling%20of%20dike-like%20body%20GUI.png?raw=true)
   
   ---
   </details>
@@ -512,7 +512,7 @@ In order to maintain the program more stable your feedback is very important. Th
   <summary> <b> Fault Model </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  
+  ![2d forward modeling of a contact GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/2d%20forward%20modeling%20of%20contact%20GUI.png?raw=true)
   
   ---
   </details>
@@ -521,7 +521,7 @@ In order to maintain the program more stable your feedback is very important. Th
   <summary> <b> Irregular Cross-Section Body </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  
+  ![2d forward modeling of irregular cross section bodies GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/2d%20forward%20modeling%20of%20irregular%20cross-section%20body%20GUI%203.png?raw=true)
   
   ---
   </details>
