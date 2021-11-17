@@ -281,8 +281,11 @@ In order to maintain the program more stable your feedback is very important. Th
   <details>
   <summary> <b> Classical Enhancement Filters </b> <i>(click to expand!)</i> </summary>
   <br>
-	
-  ![Classical Enhancement Filters GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Classical%20Enhancement%20Filters%20GUI.png)
+  
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Classical%20Enhancement%20Filters%20GUI.png">
+  </p>
+	  
   ![Classical Enhancement Filter Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Classical%20Enhancement%20Filter%20Products.png)
   
   ---
@@ -292,7 +295,10 @@ In order to maintain the program more stable your feedback is very important. Th
   <summary> <b> Balanced Horizontal Derivative [Edge Detector] </b> <i>(click to expand!)</i> </summary>
   <br>
 	
-  ![Balanced Horizontal Derivative GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Balanced%20Horizontal%20Derivative%20GUI.png)
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Balanced%20Horizontal%20Derivative%20GUI.png">
+  </p>
+  	  
   ![Balanced Horizontal Derivative Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Balanced%20Horizontal%20Derivative%20Product.png)
   
   For more information visit -> [Ma and Li, 2014](https://www.sciencedirect.com/science/article/pii/S0926985114001682).
@@ -304,7 +310,10 @@ In order to maintain the program more stable your feedback is very important. Th
   <summary> <b> Monogenic Signal </b> <i>(click to expand!)</i> </summary>
   <br>
 	
-  ![Monogenic Signal GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Monogenic%20Signal%20GUI.png)
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Monogenic%20Signal%20GUI.png">
+  </p>
+  	  
   ![Monogenic Signal Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Monogenic%20Signal%20Products.png)
   
   For more information visit -> [Hidalgo Gato and Barbosa, 2015](https://library.seg.org/doi/abs/10.1190/GEO2015-0025.1) and [Hidalgo Gato and Barbosa, 2017](https://library.seg.org/doi/abs/10.1190/geo2016-0099.1).
@@ -316,7 +325,10 @@ In order to maintain the program more stable your feedback is very important. Th
   <summary> <b> Normalized Standard Deviation </b> <i>(click to expand!)</i> </summary>
   <br>
 	
-  ![Normalized Standard Deviation GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Normalized%20Standard%20Deviation%20GUI.png)
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Normalized%20Standard%20Deviation%20GUI.png">
+  </p>
+  
   ![Normalized Standard Deviation Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Normalized%20Standard%20Deviation%20Products.png)
   
   For more information visit -> [Cooper and Cowan, 2005](https://library.seg.org/doi/abs/10.1190/1.2837309).
@@ -328,7 +340,10 @@ In order to maintain the program more stable your feedback is very important. Th
   <summary> <b> Vertical Integration of ASA </b> <i>(click to expand!)</i> </summary>
   <br>
 	
-  ![Vertical Integration of ASA GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Vertical%20Integration%20of%20ASA%20GUI.png)
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Vertical%20Integration%20of%20ASA%20GUI.png">
+  </p>
+  
   ![Vertical Integration of ASA Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Vertical%20Integration%20of%20ASA%20Product.png)
   
   For more information visit -> [Paine and Haederle, 2001](https://www.tandfonline.com/doi/abs/10.1071/EG01238).
@@ -340,7 +355,10 @@ In order to maintain the program more stable your feedback is very important. Th
   <summary> <b> TDR+-TDX </b> <i>(click to expand!)</i> </summary>
   <br>
   
-  ![Combination of TDR and TDX GUI](https://github.com/fcastro25/GravMagSuite/blob/master/images/Combination%20of%20TDR%20and%20TDX%20GUI.png)
+  <p align="center">
+	  <img src="https://github.com/fcastro25/GravMagSuite/blob/master/images/Combination%20of%20TDR%20and%20TDX%20GUI.png">
+  </p>
+  
   ![Combination of TDR and TDX Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Combination%20of%20TDR%20and%20TDX%20Products.png)
   
   ---
