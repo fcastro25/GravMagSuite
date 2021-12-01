@@ -63,9 +63,11 @@ In order to maintain the program more stable your feedback is very important. Th
   ![Extracted Profile](https://github.com/fcastro25/GravMagSuite/blob/master/images/extracted%20profile.png)
   
   In this GUI a grid file can be loaded and it's possible to extract a profile from it. There are three modes of profile extraction:
-	  - One can extract an entire row or column from grid;
-	  - The user can extract a profile by drawing a single line or polyline over the grided map;
-	  - The user can load a control file in .ply format
+  
+  - One can extract an entire row or column from grid;
+  - The user can extract a profile by drawing a single line or polyline over the grided map;
+  - The user can load a control file in .ply format that contains coordinate pairs representing vertices of a path and extract the values over it.
+  
   Obs.: In this tool a gridded file (regularly spaced) must be loaded to work properly. Avoid load scattered data.
   
   ---
