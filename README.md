@@ -6,7 +6,7 @@
 
 Grav Mag Suite is an open source MATLAB-based package for processing potential field geophysical data. The codes are written in MATLAB (version 9.4.0.813654 R2018a). This project partially represents the final product of the master degree programme of Federal University of Paraná [UFPR] in collaboration with Laboratory for Research in Applied Geophysics [LPGA]. 
 
-## WHY?
+## OUR MISSION
 
 Most geophysical software/suites are comercial or just simple open source command line programs. With Grav Mag Suite the user have in hand a variety of tools capable of perform several kinds of processing tasks over potential field geophysical data. To make it easier, every processing tool has a corresponding graphical user interface (GUI) which allows the user to perform processing tasks in few steps. In this way, Grav Mag Suite gathers the best of two worlds: be free of charge and easy to operate.
 
