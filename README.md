@@ -50,7 +50,7 @@ In order to maintain the program more stable your feedback is very important. Th
   <br>
   
   ![Profile Analysis](https://github.com/fcastro25/GravMagSuite/blob/master/images/Profile%20Analysis.png)
-  This tool allows to load a profile [2 columns ASCII file] and apply some enhacement filters (ASA, THDR, TDX, TDR, among other) as well as derivative filters (both vertical and same profile direction).
+  This tool allows to load a profile [2 columns ASCII file] and apply some enhacement filters (ASA, THDR, TDX, TDR, among otherS) as well as derivative filters (both vertical and same direction of profile).
   
   ---
   </details>
@@ -61,7 +61,12 @@ In order to maintain the program more stable your feedback is very important. Th
   
   ![Extract Profile From a Grid](https://github.com/fcastro25/GravMagSuite/blob/master/images/Extract%20profile%20from%20a%20grid.png)
   ![Extracted Profile](https://github.com/fcastro25/GravMagSuite/blob/master/images/extracted%20profile.png)
-  In this tool a gridded file (regularly spaced) must be loaded to work properly. Avoid load scattered data.
+  
+  In this GUI a grid file can be loaded and it's possible to extract a profile from it. There are three modes of profile extraction:
+	  - One can extract an entire row or column from grid;
+	  - The user can extract a profile by drawing a single line or polyline over the grided map;
+	  - The user can load a control file in .ply format
+  Obs.: In this tool a gridded file (regularly spaced) must be loaded to work properly. Avoid load scattered data.
   
   ---
   </details>
