@@ -118,7 +118,8 @@ In order to maintain the program more stable your feedback is very important. Th
   
   ![Generalized Derivative Operator Products](https://github.com/fcastro25/GravMagSuite/blob/master/images/Generalized%20Derivative%20Operator%20products.png)
   
-  More details about this operator is found at the following link [Cooper & Cowan, 2011](https://www.researchgate.net/publication/230551855_A_Generalised_Derivative_Operator_for_Potential_Field_Data)
+  More details about this operator is found at: [Cooper & Cowan, 2011](https://www.researchgate.net/publication/230551855_A_Generalised_Derivative_Operator_for_Potential_Field_Data)
+	  
   ---
   </details>
   
