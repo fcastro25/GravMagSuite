@@ -36,7 +36,7 @@ To work properly, Grav Mag Suite must be executed using the following version of
 
 ## BUG REPORT
 
-In order to maintain the program more stable your feedback is very important. Then, if you have any problem please report your bug sending me an E-mail at [fcastrogeof@gmail.com].
+In order to maintain the program more stable your feedback is very important. Then, if you are facing any issue please report your bug sending me an E-mail at [fcastrogeof@gmail.com].
 
 ## FUNCTIONALITIES
 
