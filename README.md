@@ -197,12 +197,21 @@ In order to maintain the program more stable your feedback is very important. Th
 	  </p>
 	  or in polar coordinates (with r=1):
 	  <p align="center">
-	  	<img src="https://render.githubusercontent.com/render/math?math=Q(\theta)=\frac{1}{(sin(I) %2B icos(I)cos(D-\theta))^{2}}">  
+	  	$$
+		Q(\theta) = \frac{1}{\left( \sin(I) + i \cos(I)\cos(D - \theta) \right)^{2}}
+		$$ 
 	  </p>  
 	  
   	  In the pseudo-inclination approach, the above RPT operator is used normally, but at unstable zones (D+90-beta<theta<D+90+beta and D+270-beta<theta<D+270+beta) the bellow expression is used instead:
 	  <p align="center">
-	  	<img src="https://render.githubusercontent.com/render/math?math=Q(\theta)=\frac{(sin(I)-icos(I)cos(D-\theta))^{2}}{(sin^{2}(I_{a}) %2B icos^{2}(I_{a})cos^{2}(D-\theta))(sin^{2}(I) %2B icos^{2}(I)cos^{2}(D-\theta))}">  
+	  	$$
+		Q(\theta) =
+		\frac{\left( \sin(I) - i\cos(I)\cos(D - \theta) \right)^{2}}
+		{
+		\left( \sin^{2}(I_a) + i\cos^{2}(I_a)\cos^{2}(D - \theta) \right)
+		\left( \sin^{2}(I) + i\cos^{2}(I)\cos^{2}(D - \theta) \right)
+		}
+		$$ 
 	  </p>
 	  where (I_a) is an user-given parameter called pseudo-inclination. It must be larger than the actual magnetic inclination (I) and its absolute value may often be between 20 and 30 degrees. The following figures show a TMI anomaly with (I=1 and D=45) and its reduced to the pole product, and both real and imaginary parts of the RTP operator, showing that its amplitudes at unstable zones were fairly atenuated.
 	  
