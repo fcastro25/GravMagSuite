@@ -189,7 +189,11 @@ In order to maintain the program more stable your feedback is very important. Th
   
 	  The RTP wavenumber-domain operator is expressed by the following equation:  
 	  <p align="center">
-	  	<img src="https://render.githubusercontent.com/render/math?math=Q(k_{x},k_{y})=\frac{k_{x}^{2} %2B k_{y}^{2}}{(iLk_{x} %2B iMk_{y} %2B N\sqrt{k_{x}^{2} %2B k_{y}^{2}})^{2}}">  
+	  	$$
+		Q(k_x, k_y) =
+		\frac{k_x^{2} + k_y^{2}}
+		{\left( iL k_x + iM k_y + N\sqrt{k_x^{2} + k_y^{2}} \right)^{2}}
+		$$  
 	  </p>
 	  or in polar coordinates (with r=1):
 	  <p align="center">
